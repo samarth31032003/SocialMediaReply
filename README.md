@@ -137,7 +137,6 @@ social_media_reply_generator/
 │   └── utils.py
 ├── tests/
 │   └── test_main.py
-├── posts.xlsx
 ├── Dockerfile
 ├── requirements.txt
 └── README.md
